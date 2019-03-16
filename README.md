@@ -23,8 +23,8 @@
     }
     .dos{
     }
-      </head>
     </style>
+  </head>
   <body>
     <div class="cocina">
       <h1>COCINANDO FACIL</h1>
